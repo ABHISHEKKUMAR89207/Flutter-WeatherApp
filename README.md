@@ -35,8 +35,10 @@ Follow these steps to set up and run the Flutter Weather App on your local machi
 
    ```bash
    git clone https://github.com/ABHISHEKKUMAR89207/WeatherApp.git
-   
-flutter packgae paste it on terminla
+2. Flutter package
+   ```bash
+   flutter pub get
+if not work use this code flutter packgae paste it on terminla
  ```bash
    flutter pub add lottie
    flutter pub add flutter_typeahead
