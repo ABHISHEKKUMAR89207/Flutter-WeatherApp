@@ -11,11 +11,10 @@ A simple weather app built with Flutter that allows users to check the current w
 
 ## Screenshots
 
-![Screenshot 1](img/one.jpg)
-![Screenshot 2](img/two.jpg)
-![Screenshot 3](img/three.jpg)
-![Screenshot 4](img/four.jpg)
-
+<img src="img/one.jpg" width="300">
+<img src="img/two.jpg" width="300">
+<img src="img/three.jpg" width="300">
+<img src="img/four.jpg" width="300">
 
 ## Getting Started
 
