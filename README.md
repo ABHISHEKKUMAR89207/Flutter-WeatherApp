@@ -11,8 +11,8 @@ A simple weather app built with Flutter that allows users to check the current w
 
 ## Screenshots
 
-![Screenshot 1](img/weather (1).png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](img/weather_(1).jpg)
+![Screenshot 2](img/screenshot2.png)
 
 ## Getting Started
 
